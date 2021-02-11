@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*Padronizar a fonte*/
+body{
+    font:20px arial ; sans-serif;
+}
+
+.navbar{
+    background-color:#ECF0F1 ;
+}
+.quem-somos{
+    background-color:#283747;
+    color: white;
+}
+.margin{
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color:#17202A  ;
+    color: white;
+
+}
+.col-lg-4{
+    margin-bottom: 5px;
+}
+.col-lg-6{
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.serviços{
+    background-color:#EB984E ;
+    color: white;
+}
+
+.bg-footer{
+    background-color: black;
+    color: white;
+}
